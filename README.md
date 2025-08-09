@@ -1,0 +1,1 @@
+# a-simple-Python-implementation-for-the-password-strength-tool-described-in-your-image-
